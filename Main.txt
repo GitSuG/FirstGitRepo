@@ -1,4 +1,4 @@
-Main{
+Public static testmethod void Main(Integers I){
 
 	System.out.println("Hello Main.txt");
 
